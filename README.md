@@ -52,6 +52,11 @@ Los nombres de comando no distinguen entre mayúsculas y minúsculas. Los argume
 - Python >= 3.8
 - pip
 
+## Descarga
+
+Si solo quieres usar el shell, descarga el ejecutable desde la sección
+[Releases](https://github.com/IngFonseca/Shell_Personalizado/releases) (Windows, no requiere Python).
+
 ## Instalación
 
 1. Clona el repositorio:
